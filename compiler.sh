@@ -1,0 +1,1 @@
+gcc lib/*.c main.c hashage_dir/*.c -Wall -Wextra -g3 -o hashage -I./hashage_dir
