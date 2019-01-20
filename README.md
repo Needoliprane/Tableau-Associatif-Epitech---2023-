@@ -4,9 +4,9 @@
 ./test.sh
 
 
-Tous les paramètres doivent être formaté de la façon suivante : "a:12"
+Tous les paramètres doivent être formaté de la façon suivante : "a:12" Ou alors "Needoliprane:20"
 
-C'est un exemple, la longueur des 2 paramètre n'a pas d'importance. Le nombre après les deux points doit rentrer dans un int. Dans le cas inverse le comportement est impérévisible. Si les paramètres sont mal formaté, la gestion d'erreur bloquera la suite du programme.
+C'est un exemple, la longueur des 2 info n'a pas d'importance. Le nombre après les deux points doit rentrer dans un int. Dans le cas inverse le comportement est impérévisible. Si les paramètres sont mal formaté, la gestion d'erreur bloquera la suite du programme.
 
 Il n'y a pas de limite dans le nombre d'arguments.
 
